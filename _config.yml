@@ -22,7 +22,7 @@ title: Hue's Hoes
 email: hue@buttersmooth.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the home of Hue's cam girls... lot of bitches.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "hue-buttersmooth-test.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: huebuttersmooth
 github_username:  huebuttersmooth
